@@ -12,7 +12,8 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-
+  rev = array.Reverse
+  return rev
 end
 
 def using_first(array)
